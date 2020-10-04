@@ -1,4 +1,6 @@
 #!/bin/sh
+# Launch the RESTful API container
+# Only run this script after annotation and indexing
 ODINSON_DATA_HOME="$(pwd)/data/odinson"
 HOST_IP='0.0.0.0'
 HOST_PORT='9001'

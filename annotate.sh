@@ -1,4 +1,5 @@
 #!/bin/sh
+# Annotate the plaintext documents
 ODINSON_DATA_HOME="$(pwd)/data/odinson"
 
 docker run \

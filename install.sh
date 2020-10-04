@@ -1,4 +1,6 @@
 #!/bin/sh
+# Install odinson docker images, annotate and index the supplied test document.
+# 
 # This script will run docker commands so make sure its daemon is running
 # before executing this file
 

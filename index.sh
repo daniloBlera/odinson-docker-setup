@@ -1,4 +1,6 @@
 #!/bin/sh
+# Index the annotated documents
+# Only, run this after after the annotation script
 ODINSON_DATA_HOME="$(pwd)/data/odinson"
 
 docker run \
